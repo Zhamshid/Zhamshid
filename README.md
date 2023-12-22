@@ -13,18 +13,14 @@
 
 
 <!-- GitHub Stats -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhamshid&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhamshid&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<br/>
+
 
 <!-- GitHub Streak -->
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhamshid&theme=dark" alt="GitHub Streak" />
-<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zhamshid&theme=dark" alt="GitHub Streak" />
 
-### <br/>
-### <br/>
-### <br/>
-### <br/>
+
 ### Top languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhamshid&layout=compact)
